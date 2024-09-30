@@ -45,8 +45,8 @@ const Navbar = () => {
             </Link>
           </li>
           <li className="nav-item">
-            <Link to="/Education" className="nav-links" onClick={handleClick}>
-              Education
+            <Link to="/Services" className="nav-links" onClick={handleClick}>
+              Services
             </Link>
           </li>
           <li className="nav-item">
@@ -55,8 +55,8 @@ const Navbar = () => {
             </Link>
           </li>
           <li className="nav-item">
-            <Link to="/Resume" className="nav-links" onClick={handleClick}>
-              Resume
+            <Link to="/Contact" className="nav-links" onClick={handleClick}>
+              Contact
             </Link>
           </li>
         </ul>
